@@ -9,7 +9,7 @@ Rather than a basic clone, **Zomato Pro** focuses on production-grade styling pa
 
 ## 📸 Interface Preview
 
-![Zomato Pro Desktop & Mobile Showcase](image/homepage(2).png)
+<img width="1366" height="727" alt="homepage(2) png" src="https://github.com/user-attachments/assets/6b3ad042-4c24-4e69-8974-96e9523851e8" />
 
 ## ✨ Key Features & Enhancements
 
