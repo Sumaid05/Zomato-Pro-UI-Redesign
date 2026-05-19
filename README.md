@@ -9,7 +9,7 @@ Rather than a basic clone, **Zomato Pro** focuses on production-grade styling pa
 
 ## 📸 Interface Preview
 
-![Zomato Pro Desktop & Mobile Showcase](image/homepage(2).png)
+![Zomato Pro Desktop & Mobile Showcase](image/homepage.png)
 
 ## ✨ Key Features & Enhancements
 
@@ -29,6 +29,14 @@ Rather than a basic clone, **Zomato Pro** focuses on production-grade styling pa
 *   **Typography:** Optimized loading vectors via Google Fonts (Inter/Poppins pairing).
 
 ## 📂 Project Structure
+
+```text
+├── image/          # Optimized graphical assets and screenshots
+├── index.html      # Production-grade semantic layout root
+├── style.css       # Core design tokens, utility classes, and viewports
+└── script.js       # Core interactivity and performance script
+```
+
 ## 🎯 Technical Learning Objectives
 
 This project served as a comprehensive portfolio piece for mastering production-level front-end engineering principles:
@@ -48,9 +56,3 @@ This project served as a comprehensive portfolio piece for mastering production-
 ## ⭐ Support & Contributions
 
 If this concept redesign helps you in your learning journey, feel free to fork the repository, open an issue for feature suggestions, or leave a star ⭐ to support the project!
-
-```text
-├── image/          # Optimized graphical assets and screenshots
-├── index.html      # Production-grade semantic layout root
-├── style.css       # Core design tokens, utility classes, and viewports
-└── script.js       # Core interactivity and performance script
