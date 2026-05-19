@@ -49,7 +49,7 @@ This project served as a comprehensive portfolio piece for mastering production-
 ## 👨‍💻 Developer Profile
 
 **Sumaid Ahmed T**
-*   🚀 Frontend Web Engineer & AI-Assisted Full-Stack Developer
+*   🚀 Frontend Web Engineer
 *   🌐 [GitHub Profile](https://github.com/Sumaid05)
 *   💼 [LinkedIn Profile](https://www.linkedin.com/in/sumaidahmed13/)
 
